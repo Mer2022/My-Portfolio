@@ -1,24 +1,29 @@
 h1{
     color: rgb(16, 16, 109);
-    background-color: pink;
+      background-color: #e3ecf9;
+      
     
 }
 
 #About_me{
-    background-color: pink;
+      background-color: #e3ecf9;
+      
 }
 #My_Work{
-    background-color: pink;
+      background-color: #e3ecf9;
+      
 }
 #Contact{
-    background-color: pink;
+      background-color: #e3ecf9;
+    
 }
 @media screen and (max-width: 768px) {
     #About_me{
         background-color: rgb(142, 142, 238);
     }
     nav {
-      background-color: #bb8588;
+      background-color: #e3ecf9;
+      
     }
   }
   @media screen and (max-width: 768px) {
@@ -34,6 +39,6 @@ h1{
         background-color: rgb(142, 142, 238);
     }
     nav {
-      background-color: #bb8588;
+      background-color: #e3ecf9;
     }
   }
