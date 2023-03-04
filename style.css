@@ -10,7 +10,7 @@ h1{
       
 }
 #My_Work{
-      background-color: #e3ecf9;
+      background-color: rgb(226, 235, 249);
       
 }
 #Contact{
@@ -19,7 +19,7 @@ h1{
 }
 @media screen and (max-width: 768px) {
     #About_me{
-        background-color: rgb(142, 142, 238);
+        background-color: rgb(226, 235, 249);
     }
     nav {
       background-color: #e3ecf9;
@@ -28,7 +28,7 @@ h1{
   }
   @media screen and (max-width: 768px) {
     #My_Work{
-        background-color: rgb(142, 142, 238);
+        background-color: rgb(226, 235, 249);
     }
     nav {
       background-color: #bb8588;
@@ -36,7 +36,7 @@ h1{
   }
   @media screen and (max-width: 768px) {
     #Contact{
-        background-color: rgb(142, 142, 238);
+        background-color: rgb(226, 235, 249);
     }
     nav {
       background-color: #e3ecf9;
