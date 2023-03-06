@@ -1,10 +1,11 @@
+/* H1 is the Heading in the homepage and giving it a dark blue color */
 h1{
     color: rgb(16, 16, 109);
       background-color: #e3ecf9;
       
     
 }
-
+/* adding background color for about me, my work and contact sections */
 #About_me{
       background-color: #e3ecf9;
       
@@ -17,6 +18,7 @@ h1{
       background-color: #e3ecf9;
     
 }
+/* added media query to make the site responsive */
 @media screen and (max-width: 768px) {
     #About_me{
         background-color: rgb(226, 235, 249);
